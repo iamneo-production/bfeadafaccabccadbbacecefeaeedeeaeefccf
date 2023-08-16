@@ -1,5 +1,4 @@
-@Controller
-public class Myspring {
+Class Myspring {
 	@GetMapping("/")
 	public String display()
 	{
